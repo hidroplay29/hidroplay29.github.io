@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../ejerciciosHTMLCSSJS/login"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "trabajos 501"
+	}
+}
